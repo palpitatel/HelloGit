@@ -11,5 +11,6 @@ public class HellloGit {
         System.out.println(a==b);
         System.out.println(a==c);
         System.out.println(b==c);
+        System.out.println("在线更新");
     }
 }
